@@ -1,7 +1,3 @@
-Perfeito! Aqui está o **README.md completo**, bem formatado, pronto para copiar e colar no seu GitHub:
-
----
-
 # 🎰 Automação Mega-Sena – Python + Selenium
 
 Este projeto realiza a **automação completa** do envio de jogos da Mega-Sena diretamente no site das Loterias Caixa, utilizando **Python, Selenium e uma planilha Excel** como fonte de dados.
