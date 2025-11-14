@@ -158,7 +158,3 @@ O Chrome será aberto e o processo iniciará automaticamente.
 ## 🧑‍💻 Autor
 
 Rodrigo Dallia
-
----
-
-Se quiser, também posso gerar um **`requirements.txt`**, **ou adicionar GIFs/imagens**, **ou formatar com badges e shields**.
